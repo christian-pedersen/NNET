@@ -1,0 +1,15 @@
+2	#nx
+20.0	#initial bond length (in units of Ro)
+0.0	#variation bond length (in units of Ro)
+0.	#variation radius (in units of Ro)
+0	#random seed
+20000	#nstep
+50	#nout
+0.0001	#dt
+1.0	#x-direction (will be normalized)
+0.0	#y-direction (will be normalized)
+1.0	#pressure difference
+0.0 	#feedback prefactor
+0 	#number of tubes that should be blocked
+0	#number of tubes that are blocked (will be overwritten in the output file)
+20.0	#constraint area
